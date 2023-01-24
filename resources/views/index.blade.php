@@ -1,0 +1,1 @@
+<h1>Ttying out invoke methods for single action controller</h1>
